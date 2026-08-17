@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ioubr6.salamcuan.sbs/sitemap.xml
